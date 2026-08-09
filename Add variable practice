@@ -1,0 +1,7 @@
+name = "Aditya"
+age = 18
+course = "BCA"
+
+print("My name is", name)
+print("My age is", age)
+print("I am studying", course)
